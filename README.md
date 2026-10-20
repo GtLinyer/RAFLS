@@ -1,5 +1,5 @@
 # Reliability-aware feedback learning for scribble-supervised 3D multi-organ segmentation
-by [Xiaoxiang Han](https://linyer.ac.cn/), [Yiman Liu](https://linyer.ac.cn/authors/yiman-liu/), [Jiang Shang](https://scholar.google.com/citations?user=-jM7c_YAAAAJ), [Yunhao Bai]([https://scie.shu.edu.cn/Prof/xusg.htm](https://scholar.google.com/citations?user=5kJ22ZMAAAAJ), [Yan Wang](https://faculty.ecnu.edu.cn/_s15/wy2_en_19242/main.psp), and [Qi Zhang](https://scie.shu.edu.cn/Prof/zhangq.htm).
+by [Xiaoxiang Han](https://linyer.ac.cn/), [Yiman Liu](https://linyer.ac.cn/authors/yiman-liu/), [Jiang Shang](https://scholar.google.com/citations?user=-jM7c_YAAAAJ), [Yunhao Bai](https://scholar.google.com/citations?user=5kJ22ZMAAAAJ), [Yan Wang](https://faculty.ecnu.edu.cn/_s15/wy2_en_19242/main.psp), and [Qi Zhang](https://scie.shu.edu.cn/Prof/zhangq.htm).
 
 ## Introduction
 This repository contains the official implementation of *RAFLS*. The corresponding paper, titled "[Reliability-aware feedback learning for scribble-supervised 3D multi-organ segmentation](https://doi.org/10.1016/j.patcog.2026.115009)", has been published in *Pattern Recognition*. For any inquiries or issues, please contact [hanxx@shu.edu.cn](mailto:hanxx@shu.edu.cn).
